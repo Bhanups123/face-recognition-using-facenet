@@ -1,1 +1,1 @@
-# face-recognition-using-openface
+# face-recognition-using-facenet
